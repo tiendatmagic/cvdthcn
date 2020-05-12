@@ -27,7 +27,7 @@ System.out.println("Day la mot hinh chu nhat");
 }
 
 public void cvdt( ){
-cv=a+b;
+cv=(a+b)*2;
 dt=a*b;	
 	
 }
